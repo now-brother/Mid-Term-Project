@@ -1,0 +1,31 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+headerdown{
+    border-bottom: 1px;
+}
+
+ul{
+    border-width: 1px;
+    border-style: dotted;
+}
+
+a[href*="https://"]{
+    color: blue;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 1em;
+}
+
+h2{
+    color: blue;
+    text-shadow: 2px 2px 2px skyblue;
+}
