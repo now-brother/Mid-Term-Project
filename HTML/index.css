@@ -25,17 +25,3 @@ h2{
     color: blue;
     text-shadow: 2px 2px 2px skyblue;
 }
-
-#image1 {
-    width: 200px;
-    margin-right: 10px;
-    float: left;
-}
-
-.banner {
-    font-size: 25px;
-}
-
-.content {
-    font-size: 20px;
-}
